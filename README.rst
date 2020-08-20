@@ -24,7 +24,7 @@ Flask RestPlus
 **IMPORTANT NOTICE**:
 
 This project has been **forked** to `Flask-RESTX <https://github.com/python-restx/flask-restx>`_
-and will be maintained by by the `python-restx <https://github.com/python-restx>`_
+and will be maintained by the `python-restx <https://github.com/python-restx>`_
 organization. **Flask-RESTPlus should be considered unmaintained**.
 
 The community has decided to fork the project due to lack of response from the
